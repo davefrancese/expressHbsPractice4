@@ -1,0 +1,23 @@
+{
+  "name": "practice4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfrancese/expressHbsPractice4.git"
+  },
+  "author": "dave francese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfrancese/expressHbsPractice4/issues"
+  },
+  "homepage": "https://github.com/dfrancese/expressHbsPractice4#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "hbs": "^4.0.1"
+  }
+}
